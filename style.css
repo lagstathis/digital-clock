@@ -1,0 +1,16 @@
+body{
+background: #0492C2;
+}
+
+.clock{
+    font-size: 4em;
+    text-align: center;
+    margin: 200px auto;
+    color: #fbfbf8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clock span{
+    padding: 20px;
+    background: rgba(15, 223, 178, 0.356);
+}
